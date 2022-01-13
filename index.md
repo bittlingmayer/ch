@@ -9,10 +9,10 @@ In der Schweiz gibt es die folgenden Amtssprachen und einheimische Muttersprache
 - `de-ch` Schweizer Standarddeutsch
 - `fr-ch` Schweizer Standardfranzösisch
 - `it-ch` Schweizer Standarditalienisch
+- `rm` Romanisch (Bündnerromanisch, Rätoromanisch)
 - `als-ch` alemanische Dialekte
 - `frp-ch` frankoprovenzalische Dialekte (Arpitanisch, Patois)
 - `lmo-ch` lombardische Dialekte (Tessinisch)
-- `rm` Romanisch (Bündnerromanisch, Rätoromanisch)
 - `rom` Sinti-Romanes
 - `yec` Jenisch
 - `yi` / `yih` Jiddisch
