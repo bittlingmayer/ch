@@ -4,7 +4,7 @@
 
 # Sprachen
 
-In der Schweiz gibt es die folgenden Amtssprachen und autochtonen Muttersprachen:
+In der Schweiz gibt es die folgenden Amtssprachen und einheimische Muttersprachen:
 
 - `de-ch` Schweizer Standarddeutsch
 - `fr-ch` Schweizer Standardfranzösisch
@@ -15,6 +15,7 @@ In der Schweiz gibt es die folgenden Amtssprachen und autochtonen Muttersprachen
 - `rm` Romanisch (Bündnerromanisch, Rätoromanisch)
 - `rom` Sinti-Romanes
 - `yec` Jenisch
+- `yi` / `yih` Jiddisch
 
 # Massstäbe
 
