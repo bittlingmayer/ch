@@ -12,6 +12,7 @@ In der Schweiz gibt es die folgenden Amtssprachen und einheimische Muttersprache
 - `rm` Romanisch (Bündnerromanisch, Rätoromanisch)
 - `als-ch` alemanische Dialekte
 - `frp-ch` frankoprovenzalische Dialekte (Arpitanisch, Patois)
+-  Frainc-comtou (Jurassisch)
 - `lmo-ch` lombardische Dialekte (Tessinisch)
 - `rom` Sinti-Romanes
 - `yec` Jenisch
