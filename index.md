@@ -2,6 +2,20 @@
 
 
 
+# Sprachen
+
+In der Schweiz gibt es die folgenden Amtssprachen und autochtonen Muttersprachen:
+
+- `de-ch` Schweizer Standarddeutsch
+- `fr-ch` Schweizer Standardfranzösisch
+- `it-ch` Schweizer Standarditalienisch
+- `als-ch` alemanische Dialekte
+- `frp-ch` frankoprovenzalische Dialekte (Arpitanisch, Patois)
+- `lmo-ch` lombardische Dialekte (Tessinisch)
+- `rm` Romanisch (Bündnerromanisch, Rätoromanisch)
+- `rom` Sinti-Romanes
+- `yec` Jenisch
+
 # Massstäbe
 
 ### Textkorpora
