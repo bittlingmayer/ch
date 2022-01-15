@@ -45,6 +45,31 @@ In der Schweiz gibt es die folgenden Amtssprachen und einheimische Muttersprache
 
 > Maschinelle Übersetzung (MÜ oder MT für engl. *machine translation*) bezeichnet die automatische Übersetzung von Texten aus einer Sprache in eine andere Sprache durch ein Computerprogramm.
 
+Die möglichen Quellsprachen sind oben aufgelist.  Die möglichen Quellsprachen und -varianten sind links aufgelistet.
 
+|        | de | fr | it | als | rm | frp | xx | lmo | rom | yec | yi | en |
+| ------ | -- | -- | -- | --- | -- | --- | -- | --- | --- | --- | -- | -- |
+| de     | -  |    |    |     |    |     |    |     |     |     |    | ✓  |
+| de-ch  |    |    |    |     |    |     |    |     |     |     |    |    |
+| fr     |    | -  |    |     |    |     |    |     |     |     |    | ✓  |
+| fr-ch  |    |    |    |     |    |     |    |     |     |     |    |    |
+| it     |    |    | -  |     |    |     |    |     |     |     |    | ✓  |
+| it-ch  |    |    |    |     |    |     |    |     |     |     |    |    |
+| als    |    |    |    | -   |    |     |    |     |     |     |    |    |
+| als-ch |    |    |    |     |    |     |    |     |     |     |    |    |
+| rm     |    |    |    |     | -  |     |    |     |     |     |    |    |
+| frp    |    |    |    |     |    | -   |    |     |     |     |    |    |
+| frp-ch |    |    |    |     |    |     |    |     |     |     |    |    |
+| xx     |    |    |    |     |    |     | -  |     |     |     |    |    |
+| lmo    |    |    |    |     |    |     |    | -   |     |     |    |    |
+| lmo-ch |    |    |    |     |    |     |    |     |     |     |    |    |
+| rom    |    |    |    |     |    |     |    |     | -   |     |    |    |
+| rom-ch |    |    |    |     |    |     |    |     |     |     |    |    |
+| yec    |    |    |    |     |    |     |    |     |     | -   |    |    |
+| yi     |    |    |    |     |    |     |    |     |     |     | -  | ✓  |
+| yih    |    |    |    |     |    |     |    |     |     |     |    |    |
+| en     |    |    |    |     |    |     |    |     |     |     |    | -  |
+
+Fazit: Es gibt sogar noch keine allgemein zugängliche Systeme, die direkt zwischen Französisch, Deutsch und Italienisch übersetzen!
 
 
