@@ -9,23 +9,28 @@ const SPROOCHE = [
   'lmo', 'lmo-ch',
   'rom-ch',
   'yec',
-  'yi', 'yih'
+  'yi', 'yih',
+  'en'
 ];
+
+const MAKRO = s => s.split('-')[0];
+
+const QUÄLLSPROOCHE = Array.from(new Set(SPROOCHE.map(MAKRO)));
 
 const maxLangCodeWidth = Math.max(...SPROOCHE.map(s => s.length));
 
 let matrix = `| ${ ' '.repeat(maxLangCodeWidth) } |`;
-SPROOCHE.forEach(s => matrix += ` ${ s } |`);
+QUÄLLSPROOCHE.forEach(s => matrix += ` ${ s } |`);
 matrix += '\n';
 
 matrix += `| ${ '-'.repeat(maxLangCodeWidth) } |`;
-SPROOCHE.forEach(s => matrix += ` ${ '-'.repeat(s.length) } |`);
+QUÄLLSPROOCHE.forEach(s => matrix += ` ${ '-'.repeat(s.length) } |`);
 
 SPROOCHE.forEach(s => {
   matrix += '\n';
   const padding = ' '.repeat(maxLangCodeWidth - s.length);
   matrix += `| ${ s }${ padding } |`;
-  SPROOCHE.forEach(_s => {
+  QUÄLLSPROOCHE.forEach(_s => {
     matrix += ` ${ ' '.repeat(_s.length) } |`;
   })
 });
