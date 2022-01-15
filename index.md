@@ -76,7 +76,8 @@ Die möglichen Quellsprachen sind oben aufgelist.  Die möglichen Quellsprachen 
 | yec    |    |    |    |     |    |     |    |     |     | -   |    |    |
 | yi     |    |    |    |     |    |     |    |     |     |     | -  | ✓  |
 | yih    |    |    |    |     |    |     |    |     |     |     |    |    |
-| en     |    |    |    |     |    |     |    |     |     |     |    | -  |
+| en-us  | ✓  | ✓  | ✓  |     |    |     |    |     |     |     | ✓  | -  |
+| en-uk  | ✓  | ✓  | ✓  |     |    |     |    |     |     |     | ✓  | -  |
 
 Fazit: Es gibt sogar noch keine allgemein zugängliche Systeme, die direkt zwischen Französisch, Deutsch und Italienisch übersetzen!
 
