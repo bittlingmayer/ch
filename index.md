@@ -4,19 +4,27 @@
 
 # Sprachen
 
-In der Schweiz gibt es die folgenden Amtssprachen und einheimische Muttersprachen:
+In der Schweiz gibt es die folgenden Landessprachen und Amtssprachen:
 
 - `de-ch` Schweizer Standarddeutsch
 - `fr-ch` Schweizer Standardfranzösisch
 - `it-ch` Schweizer Standarditalienisch
 - `rm` Romanisch (Bündnerromanisch, Rätoromanisch)
-- `als-ch` alemanische Dialekte
+
+Von ähnlich grosser kultureller und wirtschaftlicher Bedeutung sind aktuell:
+- `als-ch` alemannische Dialekte (Schweizerdeutsch)
+- `en` Englisch
+
+Darüber hinaus sind weitere Sprachen und Dialekte Teil der Kulturerbe und Geschichte der Schweiz:
+- `lmo-ch` lombardische Dialekte (Tessinisch)
 - `frp-ch` frankoprovenzalische Dialekte (Arpitanisch, Patois)
 -  Frainc-comtou (Jurassisch)
-- `lmo-ch` lombardische Dialekte (Tessinisch)
 - `rom` Sinti-Romanes
 - `yec` Jenisch
-- `yi` / `yih` Jiddisch
+- `yih` Westjiddisch
+- `la` Latein
+- Druckersprachen wie die eidgenössische Landsprach
+
 
 # Massstäbe
 
